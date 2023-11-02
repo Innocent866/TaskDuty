@@ -1,0 +1,47 @@
+.div1{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0 1rem 0;
+}
+
+.para1{
+    color: #974FD0;
+}
+
+.div2{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1rem;
+
+}
+
+.div3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.btn2{
+    padding: 0 0.5rem 0 0.5rem;
+   color: white;
+   border: none;
+   border-radius: 2px;
+   background-color: #974FD0;
+}
+
+.btn3{
+    padding: 0 0.5rem 0 0.5rem;
+    color: #974FD0;
+    border: 1px solid #974FD0;
+   border-radius: 2px;
+   background-color:white ;
+}
+
+.div4{
+    gap: 2rem;
+}
+
+.acro{
+    color: #974FD0;
+}

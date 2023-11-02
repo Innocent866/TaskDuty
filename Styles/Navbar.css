@@ -1,0 +1,24 @@
+.navh1{
+    border-bottom: 1px solid black;
+    
+}
+
+.img{
+    display: none;
+}
+
+.h1nav{
+    color: #974FD0;
+    text-decoration: none;
+}
+
+.pnav{
+    text-decoration: none;
+    color: black;
+}
+
+ @media screen and (min-width: 760px){
+    .img{
+        display: block;
+    } 
+} 
