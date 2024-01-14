@@ -1,0 +1,48 @@
+.div1{
+    margin: 5rem 0 0 0;
+    position: relative;
+}
+
+.lab{
+    position: absolute;
+    bottom: 50px;
+    background-color: white;
+    left: 10px;
+}
+
+.acro{
+    color: #974FD0;
+}
+
+.div{
+    margin: 3rem 0 2rem 0;
+    position: relative;
+}
+
+.label{
+    position: absolute;
+    bottom: 268px;
+    background-color: white;
+    left: 10px;
+
+}
+
+.lab2{
+    position: absolute;
+    bottom: 47px;
+    background-color: white;
+    left: 10px;
+}
+
+.di{
+    position: relative;
+}
+
+.btt{
+    background-color: #974FD0;
+}
+
+.h{
+    height: 25px;
+    margin-right: 1rem;
+}

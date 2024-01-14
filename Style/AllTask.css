@@ -1,0 +1,17 @@
+.bt{
+    background-color: #974FD0;
+    border: none;
+    border-radius: 0.5rem;
+    color: white;
+}
+
+.tn{
+    background-color: white;
+    border: 1px solid #974FD0;
+    border-radius: 0.5rem;
+    color: #974FD0;
+}
+
+.acro{
+    color: #974FD0;
+}
